@@ -24,4 +24,14 @@ export default [
     image: Img_4,
     category: "f_4",
   },
+  {
+    id: 3,
+    image: Img_1,
+    category: "f_1",
+  },
+  {
+    id: 1,
+    image: Img_2,
+    category: "f_2",
+  },
 ];
